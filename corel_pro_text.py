@@ -651,7 +651,7 @@ class CreatorApp(QMainWindow):
         QMessageBox.information(
             self,
             "About / Contact",
-            "LRD Image Creator Pro – Pro Edition\nDeveloper: LRD_SOUL (INS-SOUL)\n Whatsapp: +91 9944762900\nEmail: inscreator728@gmail.com\nTelegram: @LRD_SOUL",
+            "LRD Image Creator Pro – Pro Edition\nDeveloper: LRD_SOUL (INS-SOUL)\n Email: inscreator728@gmail.com\nTelegram: @LRD_SOUL",
         )
 
     def load_background(self):
